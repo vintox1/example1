@@ -16,6 +16,8 @@ import static org.openqa.selenium.OutputType.*;
 //example of a change to the checkbox class
 //and yet another change to compare
 
+//on the git hub site I can add comments and make changes to the branch files
+
 public class Checkbox1 extends testsuite1.BaseClass1 {
 	
  //   @BeforeMethod
