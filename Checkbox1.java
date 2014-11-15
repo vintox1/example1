@@ -15,6 +15,7 @@ import static org.openqa.selenium.OutputType.*;
 
 //example of a change to the checkbox class
 //and yet another change to compare
+//this is a branch V1.2 change for me to check out
 
 //on the git hub site I can add comments and make changes to the branch files
 
