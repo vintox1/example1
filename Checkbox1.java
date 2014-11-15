@@ -14,6 +14,7 @@ import org.openqa.selenium.*;
 import static org.openqa.selenium.OutputType.*;
 
 //example of a change to the checkbox class
+//and yet another change to compare
 
 public class Checkbox1 extends testsuite1.BaseClass1 {
 	
