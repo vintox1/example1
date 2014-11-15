@@ -1,0 +1,8 @@
+<suite name="MyTestSuite" >
+ <test name="Test One" >
+  <classes>
+   <class name="testsuite1.TwoUsers" />
+   <class name="testsuite1.Checkbox1" />
+  </classes>
+ </test>
+</suite>
