@@ -13,6 +13,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.*;
 import static org.openqa.selenium.OutputType.*;
 
+//example of a change to the checkbox class
 
 public class Checkbox1 extends testsuite1.BaseClass1 {
 	
