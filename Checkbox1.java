@@ -15,6 +15,8 @@ import static org.openqa.selenium.OutputType.*;
 
 //example of a change to the checkbox class
 //and yet another change to compare
+//here are some changes that have been made in the meantime on Master which won't be on branch V1.3 but with the merge should include both is and the Branch 1.3 stuff
+
 
 public class Checkbox1 extends testsuite1.BaseClass1 {
 	
