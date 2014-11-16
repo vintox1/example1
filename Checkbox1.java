@@ -14,14 +14,6 @@ import org.openqa.selenium.*;
 import static org.openqa.selenium.OutputType.*;
 
 //example of a change to the checkbox class
-//and yet another change to compare
-
-//and now these are the chages that came in from master and showed up as a conflict which I have manually sorted out
-//here are some changes that have been made in the meantime on Master which won't be on branch V1.3 but with the merge should include both is and the Branch 1.3 stuff
-
-
-//there are the changes that came from branch which caused a conflict and I have manually fixed them... not I have both changes on master to push
-// Version 1.3 change - another change to see what happens next I will try to merge this into master without loosing the master changes done in the meantime
 
 
 
