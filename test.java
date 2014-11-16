@@ -12,3 +12,6 @@ public class test {
   public void f() {
   }
 }
+
+
+//in the meantime some master changes have been taking place
