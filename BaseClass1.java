@@ -17,6 +17,9 @@ public class BaseClass1 {
 	public static WebDriver wd = new FirefoxDriver();
 //even more changes happening on master trunk while changes are happening on V2.1 elsewhere 
 
+	
+	//change 6 - someone made a change here for change 6
+	
     @BeforeMethod
     public void setUp() throws Exception {
         wd.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);

@@ -17,6 +17,8 @@ import static org.openqa.selenium.OutputType.*;
 
 //make a change for V2.1 fixing some bugs and so on
 
+// Change 5 - Someone made a change here too for issue 5
+
 public class Checkbox1 extends testsuite1.BaseClass1 {
 	
  //   @BeforeMethod
